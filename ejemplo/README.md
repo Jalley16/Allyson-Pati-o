@@ -1,24 +1,3 @@
-# Allyson-Pati-o - Proyecto Next.js
-
-Trabajos de CEDETEC - Aplicación Frontend
-
-## 📋 Características
-- Header y Footer personalizados
-- Tabla de productos interactiva
-- Botón contador en cada página
-- 5 contenedores por página
-- Navegación entre 3 páginas
-- Imágenes locales y externas
-
-## 🚀 Tecnologías
-- Next.js 14
-- TypeScript
-- CSS
-
-## 📦 Instalación
-```bash
-npm install
-npm run dev<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -55,7 +34,3 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
-# Allyson-Pati-o
-Trabajos CEDETEC
->>>>>>> 5ad7c1a12abe01fd8ba245eaf608bc8b46b98679

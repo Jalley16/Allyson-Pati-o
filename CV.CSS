@@ -1,0 +1,74 @@
+*{
+    font-family:/*'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',*/ sans-serif;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container{
+    display: flex;
+    border-radius: 8px;
+    box-shadow: 0 0 10px 7px #cfcfcf;
+    overflow: hidden;
+    gap: 30px;
+        background-color: azure;
+
+}
+
+.principal{
+    background-color: rgb(49, 156, 138);
+    font-size: small;
+    line-height: 1.5;
+    text-align: center;
+    color: ghostwhite;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 200px;
+    height: 100%;
+    padding: 15px;
+}
+
+.exp{
+    color: darkcyan;
+}
+
+.hab{
+    color: darkcyan;
+}
+
+.proyDest{
+    color: darkcyan;
+}
+
+.perfil{
+    font-size: smaller; 
+}
+
+.img{
+    border-radius: 100%;
+    width: 140px;
+    height: 140px;
+    object-fit: cover;
+    
+}
+
+.left{
+    text-align: start;
+}
+.box{
+    display: flex;
+    gap: 10px;
+}
+
+.box div{
+width: fit-content;
+padding: 5px;
+border-radius: 7px;
+    background: rgb(183, 228, 228);
+}
+
